@@ -1,0 +1,23 @@
+/******************************TAG SELECTOR**********************/
+body {background-color:#e1f2fb}
+       
+hr {border-style: none;}
+hr {border-color: grey;}
+hr {width: 5%;}
+hr {border-style: dotted none none;
+border-width: 10px;}
+h1 {color: dimgrey;}
+h3 {color: olivedrab;}
+p {color: sienna;}
+table {color: slategray;}
+table:hover {
+    background-color: gold;
+}
+li{color: slategray;}
+a {color: slategray;}
+
+/****************************** . CLASS SELECTOR**********************/ 
+.circular{ border-radius: 100%}
+
+
+/****************************** # ID SELECTOR**********************/ 
